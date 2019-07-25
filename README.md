@@ -1,5 +1,6 @@
 ## Build a Hacker News Client with the Vue 3 Function-based component API
 
+View it live [here](https://hn-vue-3-fn-api.now.sh/#/news)
 
 # TODO
 
@@ -15,15 +16,15 @@
     * [x] Nested comment replies
 
 
-  https://api.hackernews.io/news?page=1
+https://api.hackernews.io/news?page=1
 
-  https://api.hackernews.io/newest?page=1
+https://api.hackernews.io/newest?page=1
 
-  https://api.hackernews.io/show?page=1
+https://api.hackernews.io/show?page=1
 
-  https://api.hackernews.io/ask?page=1
+https://api.hackernews.io/ask?page=1
 
-  https://api.hackernews.io/jobs?page=1
+https://api.hackernews.io/jobs?page=1
 
 https://api.hackernews.io/item/:id
 
